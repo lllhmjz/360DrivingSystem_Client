@@ -13,7 +13,7 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(360DrivingSystem_Client main.cpp)
+add_executable(360DrivingSystem_Client main.cpp mainwindow.cpp mainwindow.h mainwindow.ui)
 target_link_libraries(360DrivingSystem_Client
         Qt::Core
         Qt::Gui

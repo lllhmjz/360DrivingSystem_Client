@@ -64,7 +64,6 @@
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckIncludeFile.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckIncludeFile.c.in",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindPackageMessage.cmake",
 		"/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
@@ -257,7 +256,15 @@
 	"CMAKE_SOURCE_DIR" : "/Users/xucanhui/CLionProjects/360DrivingSystem_Client",
 	"DEP_FILE" : "/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "360DrivingSystem_Client_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/Users/xucanhui/CLionProjects/360DrivingSystem_Client/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/include",
 	"MOC_COMPILATION_FILE" : "/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/mocs_compilation.cpp",
@@ -310,6 +317,11 @@
 	[
 		[
 			"/Users/xucanhui/CLionProjects/360DrivingSystem_Client/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/xucanhui/CLionProjects/360DrivingSystem_Client/mainwindow.cpp",
 			"MU",
 			null
 		]

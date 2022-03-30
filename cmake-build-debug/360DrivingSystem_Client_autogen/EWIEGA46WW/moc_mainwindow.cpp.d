@@ -1,40 +1,5 @@
-360DrivingSystem_Client_autogen/timestamp: \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeFindDependencyMacro.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseArguments.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckCXXCompilerFlag.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckCXXSourceCompiles.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckIncludeFile.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CheckLibraryExists.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindOpenGL.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindPackageMessage.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/FindThreads.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Internal/CheckCompilerFlag.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/MacroAddFileDependencies.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake \
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake \
+/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/EWIEGA46WW/moc_mainwindow.cpp: /Users/xucanhui/CLionProjects/360DrivingSystem_Client/mainwindow.h \
+  /Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/moc_predefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityInternal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/AvailabilityMacros.h \
@@ -292,14 +257,6 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_symbol_aliasing.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/cdefs.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stdarg.h \
-  ../CMakeLists.txt \
-  360DrivingSystem_Client_autogen/moc_predefs.h \
-  CMakeFiles/3.21.1/CMakeCCompiler.cmake \
-  CMakeFiles/3.21.1/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.21.1/CMakeSystem.cmake \
-  ../main.cpp \
-  ../mainwindow.cpp \
-  ../mainwindow.h \
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -392,92 +349,4 @@
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
   /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
-  /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
-  /opt/homebrew/Cellar/qt/6.2.3_1/lib/cmake/Qt6/FindWrapAtomic.cmake \
-  /opt/homebrew/Cellar/qt/6.2.3_1/lib/cmake/Qt6/FindWrapOpenGL.cmake \
-  /opt/homebrew/Cellar/qt/6.2.3_1/lib/cmake/Qt6/QtFeatureCommon.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtFeature.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
-  /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-  ../mainWindow.ui \
-  /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
+  /opt/homebrew/Cellar/qt/6.2.3_1/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
