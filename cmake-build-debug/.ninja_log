@@ -1,0 +1,8 @@
+# ninja log v5
+1	38	1648612499704495363	360DrivingSystem_Client_autogen/timestamp	26a7493730ea0ddf
+1	38	1648612499704495363	360DrivingSystem_Client_autogen/mocs_compilation.cpp	26a7493730ea0ddf
+1	38	1648612499704495363	/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/timestamp	26a7493730ea0ddf
+1	38	1648612499704495363	/Users/xucanhui/CLionProjects/360DrivingSystem_Client/cmake-build-debug/360DrivingSystem_Client_autogen/mocs_compilation.cpp	26a7493730ea0ddf
+38	58	1648612499728733726	CMakeFiles/360DrivingSystem_Client.dir/360DrivingSystem_Client_autogen/mocs_compilation.cpp.o	b820c42c142f9f62
+38	592	1648612500260603878	CMakeFiles/360DrivingSystem_Client.dir/main.cpp.o	7b0e347797a5822d
+592	666	1648612500336758160	360DrivingSystem_Client	8632d0ff0b4d9c8c
