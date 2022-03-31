@@ -123,7 +123,7 @@ build 360DrivingSystem_Client_autogen_timestamp_deps: phony CMakeFiles/360Drivin
 #############################################
 # Utility command for 360DrivingSystem_Client_autogen
 
-build 360DrivingSystem_Client_autogen: phony CMakeFiles/360DrivingSystem_Client_autogen 360DrivingSystem_Client_autogen/include/ui_mainWindow.h 360DrivingSystem_Client_autogen/timestamp 360DrivingSystem_Client_autogen/mocs_compilation.cpp 360DrivingSystem_Client_autogen_timestamp_deps
+build 360DrivingSystem_Client_autogen: phony CMakeFiles/360DrivingSystem_Client_autogen 360DrivingSystem_Client_autogen/include/ui_MainWindow.h 360DrivingSystem_Client_autogen/timestamp 360DrivingSystem_Client_autogen/mocs_compilation.cpp 360DrivingSystem_Client_autogen_timestamp_deps
 
 
 #############################################
@@ -145,7 +145,7 @@ build CMakeFiles/360DrivingSystem_Client_autogen_timestamp_deps | ${cmake_ninja_
 #############################################
 # Phony custom command for CMakeFiles/360DrivingSystem_Client_autogen
 
-build CMakeFiles/360DrivingSystem_Client_autogen 360DrivingSystem_Client_autogen/include/ui_mainWindow.h | ${cmake_ninja_workdir}CMakeFiles/360DrivingSystem_Client_autogen ${cmake_ninja_workdir}360DrivingSystem_Client_autogen/include/ui_mainWindow.h: phony 360DrivingSystem_Client_autogen/timestamp || 360DrivingSystem_Client_autogen_timestamp_deps
+build CMakeFiles/360DrivingSystem_Client_autogen 360DrivingSystem_Client_autogen/include/ui_MainWindow.h | ${cmake_ninja_workdir}CMakeFiles/360DrivingSystem_Client_autogen ${cmake_ninja_workdir}360DrivingSystem_Client_autogen/include/ui_MainWindow.h: phony 360DrivingSystem_Client_autogen/timestamp || 360DrivingSystem_Client_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

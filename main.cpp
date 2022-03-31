@@ -7,9 +7,9 @@
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
 
-    mainWindow w;
-    w.setWindowFlag(Qt::FramelessWindowHint);
-    w.setAttribute(Qt::WA_TranslucentBackground);
+    MainWindow w;
+//    w.setWindowFlag(Qt::FramelessWindowHint);
+//    w.setAttribute(Qt::WA_TranslucentBackground);
     w.show();
 
 //    QPushButton button("Hello world!", nullptr);

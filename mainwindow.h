@@ -1,29 +1,28 @@
 //
-// Created by 许灿辉 on 2022/3/30.
+// Created by 许灿辉 on 2022/3/31.
 //
 
 #ifndef INC_360DRIVINGSYSTEM_CLIENT_MAINWINDOW_H
 #define INC_360DRIVINGSYSTEM_CLIENT_MAINWINDOW_H
 
-#include <QWidget>
+#include <QMainWindow>
 
 
 QT_BEGIN_NAMESPACE
-namespace Ui { class mainWindow; }
+namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
-class mainWindow : public QWidget {
+class MainWindow : public QMainWindow {
 Q_OBJECT
 
 public:
-    explicit mainWindow(QWidget *parent = nullptr);
+    explicit MainWindow(QWidget *parent = nullptr);
 
-    ~mainWindow() override;
+    ~MainWindow() override;
 
 private:
-    Ui::mainWindow *ui;
+    Ui::MainWindow *ui;
 };
-
 
 
 #endif //INC_360DRIVINGSYSTEM_CLIENT_MAINWINDOW_H

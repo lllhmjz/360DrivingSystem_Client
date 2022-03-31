@@ -281,7 +281,7 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/360DrivingSystem_Client_autogen/include/ui_mainWindow.h",
+			"path" : "cmake-build-debug/360DrivingSystem_Client_autogen/include/ui_MainWindow.h",
 			"sourceGroupIndex" : 1
 		},
 		{
